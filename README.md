@@ -4,7 +4,7 @@
 
 Below are two coding challenges, one focused on backend, the other focused on frontend.  Please complete the challenge most appropriate for the role you are applying for.
 
-The challenges are not intended to take a significant amount of time.  If you feel like  are taking more than a couple hours to complete, please feel free to reach out to us.
+The challenges are not intended to take a significant amount of time.  If you feel like the challenges are taking more than a couple hours to complete, please feel free to reach out to us.
 
 When you are done, please send your code to (coding-challenge@daupler.com). You are welcome to send a zipped folder or share it using Github.
 
