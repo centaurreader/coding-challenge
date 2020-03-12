@@ -28,14 +28,10 @@ Bob | Supervisor
 - Use Django to create a backend service that can store teams and team members.  You can use any library on top of Django that you like.  You may use the default SQLite database.
 
 - Your service should have an API that allows users to perform the following actions:
-
-..* View a list of teams, including their members
-
-..* Create new teams
-
-..* Add and remove team members from a team
-
-..* Update the team call order
+  * View a list of teams, including their members
+  * Create new teams
+  * Add and remove team members from a team
+  * Update the team call order
 
 - Write at least one test, but no more than five.  Try to write tests that you feel provide the most value, as opposed to the tests you might write for production-ready code.
 
