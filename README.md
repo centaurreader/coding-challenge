@@ -33,7 +33,7 @@ Bob | Supervisor
   * Add and remove team members from a team
   * Update the team call order
 
-- Write at least one test, but no more than five.  Try to write tests that you feel provide the most value, as opposed to the tests you might write for production-ready code.
+- Write at least one test, but no more than five.  Try to write tests that you feel provide the most value.  You do not need to write every test you would write for production-ready code.
 
 
 ## Frontend Challenge: Single Page Application
