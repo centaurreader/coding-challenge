@@ -37,7 +37,7 @@ Here is an example of a team list provided for a customer's "Water Division" tea
 
 ## Frontend Challenge: Single Page Application
 
-Imagine a city has an ticket system that helps them keep track of citizen-reported issues such as potholes, graffiti, etc. As issues are reported and their crews respond events are logged to an audit table. Here's a visual example (see also the included [mock data](spa_mock_data.json))
+Imagine a city has a service that helps them keep track of citizen-reported issues such as potholes, graffiti, etc. As issues are reported and their crews respond events are logged to an audit table. Here's a visual example (see also the included [mock data](spa_mock_data.json))
 
 | Division | Issue ID | Event          | Time                 | User     |
 | -------- | -------- | -------------- | -------------------- | -------- |
