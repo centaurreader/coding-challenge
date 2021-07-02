@@ -1,0 +1,38 @@
+{
+  "extends": ["airbnb", "airbnb-typescript", "airbnb/hooks", "plugin:react/recommended"],
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "project": [ "tsconfig.json" ],
+    "allowImportExportEverywhere": true
+  },
+  "rules": {
+    "react/jsx-filename-extension": [2, { "extensions": [".jsx", ".tsx"] }],
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": "*.tsx",
+      "rules": {
+        "react/prop-types": [0, "never"]
+      }
+    }
+  ]
+}
